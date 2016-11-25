@@ -2,4 +2,4 @@
 
 ![schematics](schematics.png)
 
-![driver_shield](driver_shield.png)
+![driver_shield2](driver_shield2.png)
