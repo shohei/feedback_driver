@@ -69,21 +69,21 @@
 <pad name="VS_B" x="3.81" y="-12.7" drill="0.8" shape="long"/>
 <pad name="VCC" x="3.81" y="10.16" drill="0.8" shape="long"/>
 <pad name="VS_A" x="3.81" y="12.7" drill="0.8" shape="long"/>
-<wire x1="-7.62" y1="15.24" x2="6.35" y2="15.24" width="0.127" layer="21"/>
+<wire x1="-8.89" y1="15.24" x2="6.35" y2="15.24" width="0.127" layer="21"/>
 <wire x1="6.35" y1="15.24" x2="6.35" y2="-15.24" width="0.127" layer="21"/>
-<wire x1="6.35" y1="-15.24" x2="-7.62" y2="-15.24" width="0.127" layer="21"/>
-<wire x1="-7.62" y1="-15.24" x2="-7.62" y2="15.24" width="0.127" layer="21"/>
-<pad name="SENSE_A" x="-5.08" y="12.7" drill="0.8" shape="long"/>
-<pad name="INA1" x="-5.08" y="10.16" drill="0.8" shape="long"/>
-<pad name="EN_A" x="-5.08" y="7.62" drill="0.8" shape="long"/>
-<pad name="OUTA1" x="-5.08" y="5.08" drill="0.8" shape="long"/>
-<pad name="GND" x="-5.08" y="2.54" drill="0.8" shape="long"/>
-<pad name="GND2" x="-5.08" y="0" drill="0.8" shape="long"/>
-<pad name="INB1" x="-5.08" y="-2.54" drill="0.8" shape="long"/>
-<pad name="EN_B" x="-5.08" y="-5.08" drill="0.8" shape="long"/>
-<pad name="NC" x="-5.08" y="-7.62" drill="0.8" shape="long"/>
-<pad name="OUTB1" x="-5.08" y="-10.16" drill="0.8" shape="long"/>
-<pad name="SENSE_B" x="-5.08" y="-12.7" drill="0.8" shape="long"/>
+<wire x1="6.35" y1="-15.24" x2="-8.89" y2="-15.24" width="0.127" layer="21"/>
+<wire x1="-8.89" y1="-15.24" x2="-8.89" y2="15.24" width="0.127" layer="21"/>
+<pad name="SENSE_A" x="-7.62" y="12.7" drill="0.8" shape="long"/>
+<pad name="INA1" x="-3.81" y="10.16" drill="0.8" shape="long"/>
+<pad name="EN_A" x="-3.81" y="7.62" drill="0.8" shape="long"/>
+<pad name="OUTA1" x="-3.81" y="5.08" drill="0.8" shape="long"/>
+<pad name="GND" x="-3.81" y="2.54" drill="0.8" shape="long"/>
+<pad name="GND2" x="-3.81" y="0" drill="0.8" shape="long"/>
+<pad name="INB1" x="-3.81" y="-2.54" drill="0.8" shape="long"/>
+<pad name="EN_B" x="-3.81" y="-5.08" drill="0.8" shape="long"/>
+<pad name="NC" x="-3.81" y="-7.62" drill="0.8" shape="long"/>
+<pad name="OUTB1" x="-3.81" y="-10.16" drill="0.8" shape="long"/>
+<pad name="SENSE_B" x="-3.81" y="-12.7" drill="0.8" shape="long"/>
 <text x="-6.35" y="16.51" size="1.27" layer="21">NJM2670</text>
 </package>
 </packages>
